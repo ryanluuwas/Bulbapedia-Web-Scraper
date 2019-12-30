@@ -18,12 +18,10 @@ The .csv file includes the following:
 3. Generation
 4. Primary Typing
 5. Secondary Typing
-6. Ability
-7. Hidden Ability
-8. Health
-9. Attack
-10. Defense
-11. Special Attack
-12. Special Defense
-13. Speed
-14. Base Total Stats
+6. Health
+7. Attack
+8. Defense
+9. Special Attack
+10. Special Defense
+11. Speed
+12. Base Total Stats
